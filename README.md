@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
-🌱 Currently exploring Web Developement.  
-👯 Open to collaborate on technologies related to python.
+🔭 Currently exploring HTML, CSS, JS.  
+🤔 Open to collaborate on technologies related to Python.
 
 <!--
 **sudaisx/sudaisx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
