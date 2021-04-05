@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-🌱 Currently exploring Web Developement. 
+🌱 Currently exploring Web Developement.  
 👯 Open to collaborate on technologies related to python.
 
 <!--
