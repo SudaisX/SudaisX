@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-- I'm an Aspiring Engineer majoring in Computer Science. I'm also a full-stack developer exploring interests in UI/UX, Data Science, Machine Learning and Robotics.
+I'm an Aspiring Engineer majoring in Computer Science. I'm also a full-stack developer exploring interests in UI/UX, Data Science, Machine Learning and Robotics.
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
