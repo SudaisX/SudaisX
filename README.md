@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I'm Sudais! :) </a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    A full-stack developer and Computer Science Student
+    A full-stack developer and a Computer Science Student
   </samp>
 </p>
 
